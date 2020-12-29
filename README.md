@@ -1,5 +1,5 @@
 # makeList-ipfs
-show the whole content of your ipfs server in one html file
+shows the whole content of your ipfs server in one html file
 
 
 Syntax:<br>
