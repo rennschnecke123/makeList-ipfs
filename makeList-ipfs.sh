@@ -9,7 +9,7 @@ elif [ "$par" == '-v' ]
 then
 	timeout=600
 else
-	timeout=0
+	timeout=1
 fi
 
 date=$(date +%s)
